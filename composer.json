@@ -1,5 +1,5 @@
 {
-    "name": "robmorgan/phinx",
+    "name": "marcovmun/phinx",
     "type": "library",
     "description": "Phinx makes it ridiculously easy to manage the database migrations for your PHP app.",
     "keywords": ["phinx", "migrations", "database", "db", "database migrations"],
@@ -14,6 +14,10 @@
         "name": "Woody Gilk",
         "email": "woody.gilk@gmail.com",
         "homepage": "http://shadowhand.me",
+        "role": "Developer"
+    }, {
+        "name": "Marco van Munster",
+        "email": "marcovmun@outlook.com",
         "role": "Developer"
     }],
     "require": {
